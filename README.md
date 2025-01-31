@@ -13,7 +13,7 @@ Il bloque également les coups à mains nues en centre-ville.
 - Il suffit simplement de redémarrer.
 
 
-# :incoming_envelope: ***Téléchargement***
+# 📞 ***Téléchargement***
 **[Dernière version du AntiFP100](https://github.com/cole100st/AntiFP100/releases/tag/AntiFP100)**
 
 # :mobile_phone: ***Contact***
